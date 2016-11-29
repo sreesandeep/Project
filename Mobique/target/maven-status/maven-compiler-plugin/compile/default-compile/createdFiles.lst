@@ -1,0 +1,15 @@
+controllers\HomeController.class
+controllers\FlowController.class
+controllers\SignUpController.class
+controllers\FileUploadController.class
+DAO\productServices.class
+controllers\Demohandler.class
+DAO\productDAOImpl.class
+controllers\FlowHandler.class
+model\Product.class
+model\UserBean.class
+controllers\UserBean.class
+DAO\customerServices.class
+model\Customer.class
+DAO\CustomerDAOImpl.class
+DAO\CustomerDAOImplBackup.class
